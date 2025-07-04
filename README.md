@@ -48,6 +48,81 @@ We Are Committed To Building Reliable, Scalable, And Intelligent Systems That So
 🌐 Website : *www.durgaaisolutions.com* , *www.durgaaisolutions.in* , *www.durgaaisolutions.cloud* , *www.durgaaisolutions.info* <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-6%20hrs%2015%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20the%20Team%20Has%20Written-2.1%20thousand%20Lines%20of%20code-blue)
+
+**🐱 Durgaai Solutions GitHub Data** 
+
+> 📦 Used In GitHub's Storage: 24 Bytes 
+ > 
+> 🏆 Contributions Made In The Year: 63 in 2025 
+ > 
+> 💼 Durgaai Solutions Is Open to Hire 
+ > 
+> 📜 public repositories: 4 
+ > 
+> 🔑 private repositories: 0 
+ > 
+**We Are Night Owls** 
+
+```text
+🌞 Morning             3 Commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+🌆 Daytime             5 Commits         ███████░░░░░░░░░░░░░░░░░░   26.32 %
+🌃 Evening             10 Commits        █████████████░░░░░░░░░░░░   52.63 %
+🌙 Night               1 Commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+```
+📅 **We Are Most Productive On Friday** 
+
+```text
+Monday                0 Commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Tuesday               0 Commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Wednesday             2 Commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Thursday              3 Commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Friday                11 Commits        ██████████████░░░░░░░░░░░   57.89 %
+Saturday              3 Commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Sunday                0 Commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
+
+📊 **This Week The Team Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+Python                2 Hrs 38 Mins     ████████████████░░░░░░░░░   64.28 %
+Yaml                  1 Hr 2 Mins       ██████░░░░░░░░░░░░░░░░░░░   25.51 %
+Docker                22 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Text                  2 Mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Makefile              0 Secs            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+
+🔥 Editors:
+Vs Code               4 Hrs 6 Mins      █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+Durgaai-Readme-Stats  3 Hrs 58 Mins     ████████████████████████░   96.46 %
+Github_Customize      8 Mins            █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Asterisk-Secure-Com...0 Secs            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+
+💻 Operating System:
+Windows               4 Hrs 6 Mins      █████████████████████████   100.00 %
+```
+
+**We Mostly Code In Python** 
+
+```text
+Python                2 Repos           █████████████████████████   100.00 %
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DurgaaiSolutions/DurgaaiSolutions/main/./assets/bar_graph.png)
+
+
+ Last Updated On 04/07/2025 16:23:44 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials :
