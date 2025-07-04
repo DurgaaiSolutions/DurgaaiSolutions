@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime Metrics
+    name: Update Readme With WakaTime Metrics
     runs-on: ubuntu-latest
 
     steps:
@@ -35,4 +35,4 @@ jobs:
           COMMIT_USERNAME: "readme-bot"
           COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
           COMMIT_MESSAGE: "🕒 Updated with Dev Metrics"
-          SECTION_NAME: "Waka Update"
+          SECTION_NAME: "waka"
