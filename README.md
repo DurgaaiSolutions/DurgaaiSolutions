@@ -48,15 +48,15 @@ We Are Committed To Building Reliable, Scalable, And Intelligent Systems That So
 🌐 Website : *www.durgaaisolutions.com* , *www.durgaaisolutions.in* , *www.durgaaisolutions.cloud* , *www.durgaaisolutions.info* <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-6%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-4%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20the%20Team%20Has%20Written-2.1%20thousand%20Lines%20of%20code-blue)
 
 **🐱 Durgaai Solutions GitHub Data** 
 
-> 📦 Used In GitHub's Storage: 112 Bytes 
+> 📦 Used In GitHub's Storage: 113 Bytes 
  > 
-> 🏆 Contributions Made In The Year: 66 in 2025 
+> 🏆 Contributions Made In The Year: 21 in 2025 
  > 
 > 💼 Durgaai Solutions Is Open to Hire 
  > 
@@ -122,7 +122,7 @@ Python                2 Repos           █████████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/DurgaaiSolutions/DurgaaiSolutions/main/./assets/bar_graph.png)
 
 
- Last Updated On 04/07/2025 17:21:20 UTC
+ Last Updated On 04/07/2025 18:33:36 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials :
