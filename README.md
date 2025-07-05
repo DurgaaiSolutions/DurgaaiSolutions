@@ -48,7 +48,7 @@ We Are Committed To Building Reliable, Scalable, And Intelligent Systems That So
 🌐 Website : *www.durgaaisolutions.com* , *www.durgaaisolutions.in* , *www.durgaaisolutions.cloud* , *www.durgaaisolutions.info* <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-6%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-6%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20The%20Team%20Has%20Written-3.8%20thousand%20Lines%20of%20code-blue)
 
@@ -56,31 +56,31 @@ We Are Committed To Building Reliable, Scalable, And Intelligent Systems That So
 
 > 📦 Used In GitHub's Storage: 223 Bytes 
  > 
-> 🏆 Contributions Made In The Year: 28 in 2025 
+> 🏆 Contributions Made In The Year: 25 in 2025 
  > 
 > 💼 Durgaai Solutions Is Open to Hire 
  > 
 > 📜 Public Repositories: 4 
  > 
-> 🔑 Private Repositories: 0 
+> 🔑 Private Repositories: 1 
  > 
 **We Are Night Owls** 
 
 ```text
-🌞 Morning             3 Commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.11 %
-🌆 Daytime             7 Commits         ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   18.92 %
-🌃 Evening             26 Commits        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   70.27 %
-🌙 Night               1 Commits         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.70 %
+🌞 Morning             3 Commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.69 %
+🌆 Daytime             7 Commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.95 %
+🌃 Evening             28 Commits        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   71.79 %
+🌙 Night               1 Commits         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.56 %
 ```
 📅 **We Are Most Productive On Friday** 
 
 ```text
 Monday                0 Commits         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.00 %
 Tuesday               0 Commits         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.00 %
-Wednesday             2 Commits         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.41 %
-Thursday              3 Commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.11 %
-Friday                18 Commits        ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   48.65 %
-Saturday              14 Commits        ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   37.84 %
+Wednesday             2 Commits         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.13 %
+Thursday              3 Commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.69 %
+Friday                18 Commits        ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   46.15 %
+Saturday              16 Commits        ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   41.03 %
 Sunday                0 Commits         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.00 %
 ```
 
@@ -124,7 +124,7 @@ Python                2 Repos           ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 ![Lines of Code chart](https://raw.githubusercontent.com/DurgaaiSolutions/DurgaaiSolutions/main/./assets/bar_graph.png)
 
 
- Last Updated On 05/07/2025 16:44:03 UTC
+ Last Updated On 05/07/2025 17:21:25 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials :
