@@ -136,8 +136,8 @@ Python                2 Repos           █████████████�
 ## 📊 GitHub Stats :
 <table>
   <tr>
-    <td></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=DurgaaiSolutions&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=durgaaisolutions&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=durgaaisolutions&theme=vue-dark&hide_border=false" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
