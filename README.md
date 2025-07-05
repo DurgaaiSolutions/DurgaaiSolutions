@@ -136,7 +136,7 @@ Python                2 Repos           █████████████�
 ## 📊 GitHub Stats :
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=DurgaaiSolutions&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /></td>
+    <td></td>
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=DurgaaiSolutions&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></td>
   </tr>
 </table>
