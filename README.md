@@ -124,7 +124,7 @@ Python                2 Repos           ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 ![Lines of Code chart](https://raw.githubusercontent.com/DurgaaiSolutions/DurgaaiSolutions/main/./assets/bar_graph.png)
 
 
- Last Updated On 08/07/2025 20:28:06 UTC
+ Last Updated On 08/07/2025 21:23:50 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials :
