@@ -91,22 +91,16 @@ Sunday                0 Commits         ▱▱▱▱▱▱▱▱▱▱▱▱▱�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Yaml                  1 Hr 2 Mins       ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   47.60 %
-Python                40 Mins           ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.69 %
-Text                  17 Mins           ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.53 %
-Makefile              6 Mins            ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.00 %
-Markdown              3 Mins            ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.03 %
+No Activity Tracked This Week
 
 🔥 Editors:
-Vs Code               2 Hrs 10 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+No Activity Tracked This Week
 
 🐱‍💻 Projects:
-Durgaai-Readme-Stats  1 Hr 17 Mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱   59.27 %
-Durgaaisolutions-Main 42 Mins           ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   32.69 %
-Durgaai-Waka-Stats-...10 Mins           ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.04 %
+No Activity Tracked This Week
 
 💻 Operating System:
-Windows               2 Hrs 10 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+No Activity Tracked This Week
 ```
 
 **We Mostly Code In Python** 
@@ -122,7 +116,7 @@ Python                2 Repos           ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 ![Lines of Code chart](https://raw.githubusercontent.com/DurgaaiSolutions/DurgaaiSolutions/main/./assets/bar_graph.png)
 
 
- Last Updated On 11/07/2025 18:35:11 UTC
+ Last Updated On 11/07/2025 19:21:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials :
