@@ -54,7 +54,7 @@ We Are Committed To Building Reliable, Scalable, And Intelligent Systems That So
 
 **🐱 Durgaai Solutions GitHub Data** 
 
-> 📦 Used In GitHub's Storage: 413 Bytes 
+> 📦 Used In GitHub's Storage: 419 Bytes 
  > 
 > 🏆 Contributions Made In The Year: 28 in 2025 
  > 
@@ -116,7 +116,7 @@ Python                2 Repos           ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 ![Lines of Code chart](https://raw.githubusercontent.com/DurgaaiSolutions/DurgaaiSolutions/main/./assets/bar_graph.png)
 
 
- Last Updated On 02/08/2025 23:26:36 UTC
+ Last Updated On 03/08/2025 02:26:34 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials :
