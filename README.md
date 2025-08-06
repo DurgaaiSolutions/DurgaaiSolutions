@@ -48,7 +48,7 @@ We Are Committed To Building Reliable, Scalable, And Intelligent Systems That So
 🌐 Website : *www.durgaaisolutions.com* , *www.durgaaisolutions.in* , *www.durgaaisolutions.cloud* , *www.durgaaisolutions.info* <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-7%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-9%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20The%20Team%20Has%20Written-3.8%20thousand%20Lines%20of%20code-blue)
 
@@ -91,18 +91,18 @@ Sunday                0 Commits         ▱▱▱▱▱▱▱▱▱▱▱▱▱�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Markdown              31 Mins           ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱   56.34 %
-Text                  24 Mins           ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   43.60 %
-Python                0 Secs            ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.06 %
+Markdown              3 Hrs 10 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   88.75 %
+Text                  24 Mins           ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.23 %
+Python                0 Secs            ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.02 %
 
 🔥 Editors:
-Vs Code               55 Mins           ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+Vs Code               3 Hrs 34 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
 
 🐱‍💻 Projects:
-Project Durgaai       55 Mins           ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+Project Durgaai       3 Hrs 34 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
 
 💻 Operating System:
-Windows               55 Mins           ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+Windows               3 Hrs 34 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
 ```
 
 **We Mostly Code In Python** 
@@ -118,7 +118,7 @@ Python                2 Repos           ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 ![Lines of Code chart](https://raw.githubusercontent.com/DurgaaiSolutions/DurgaaiSolutions/main/./assets/bar_graph.png)
 
 
- Last Updated On 06/08/2025 18:38:08 UTC
+ Last Updated On 06/08/2025 19:23:44 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials :
