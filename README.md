@@ -54,7 +54,7 @@ We Are Committed To Building Reliable, Scalable, And Intelligent Systems That So
 
 **🐱 Durgaai Solutions GitHub Data** 
 
-> 📦 Used In GitHub's Storage: 429 Bytes 
+> 📦 Used In GitHub's Storage: 436 Bytes 
  > 
 > 🏆 Contributions Made In The Year: 29 in 2025 
  > 
@@ -64,6 +64,47 @@ We Are Committed To Building Reliable, Scalable, And Intelligent Systems That So
  > 
 > 🔑 Private Repositories: 0 
  > 
+**We Are Night Owls** 
+
+```text
+🌞 Morning             4 Commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.53 %
+🌆 Daytime             7 Commits         ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   18.42 %
+🌃 Evening             26 Commits        ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   68.42 %
+🌙 Night               1 Commits         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.63 %
+```
+📅 **We Are Most Productive On Friday** 
+
+```text
+Monday                1 Commits         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.63 %
+Tuesday               0 Commits         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.00 %
+Wednesday             2 Commits         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.26 %
+Thursday              3 Commits         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.89 %
+Friday                18 Commits        ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   47.37 %
+Saturday              14 Commits        ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   36.84 %
+Sunday                0 Commits         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.00 %
+```
+
+
+📊 **This Week The Team Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+Markdown              3 Hrs 10 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   87.40 %
+Text                  27 Mins           ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.58 %
+Python                0 Secs            ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.02 %
+
+🔥 Editors:
+Vs Code               3 Hrs 37 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+
+🐱‍💻 Projects:
+Project Durgaai       3 Hrs 37 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+
+💻 Operating System:
+Windows               3 Hrs 37 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+```
+
 **We Mostly Code In Python** 
 
 ```text
@@ -77,7 +118,7 @@ Python                2 Repos           ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 ![Lines of Code chart](https://raw.githubusercontent.com/DurgaaiSolutions/DurgaaiSolutions/main/./assets/bar_graph.png)
 
 
- Last Updated On 07/08/2025 19:23:53 UTC
+ Last Updated On 07/08/2025 20:29:52 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials :
