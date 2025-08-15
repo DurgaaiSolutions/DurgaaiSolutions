@@ -48,7 +48,7 @@ We Are Committed To Building Reliable, Scalable, And Intelligent Systems That So
 🌐 Website : *www.durgaaisolutions.com* , *www.durgaaisolutions.in* , *www.durgaaisolutions.cloud* , *www.durgaaisolutions.info* <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-11%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-12%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20The%20Team%20Has%20Written-5.6%20thousand%20Lines%20of%20code-blue)
 
@@ -91,21 +91,21 @@ Sunday                0 Commits         ▱▱▱▱▱▱▱▱▱▱▱▱▱�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Html                  1 Hr 10 Mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱   61.66 %
-Python                22 Mins           ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.82 %
-Markdown              20 Mins           ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.68 %
-Css                   0 Secs            ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.36 %
-Powershell            0 Secs            ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.24 %
+Html                  1 Hr 10 Mins      ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   49.43 %
+Markdown              48 Mins           ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.00 %
+Python                22 Mins           ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.89 %
+Css                   0 Secs            ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.28 %
+Powershell            0 Secs            ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.19 %
 
 🔥 Editors:
-Vs Code               1 Hr 54 Mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+Vs Code               2 Hrs 22 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
 
 🐱‍💻 Projects:
-Project Durgaai       1 Hr 34 Mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱   82.32 %
-Unknown Project       20 Mins           ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.68 %
+Project Durgaai       1 Hr 34 Mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱   66.00 %
+Unknown Project       48 Mins           ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.00 %
 
 💻 Operating System:
-Windows               1 Hr 54 Mins      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
+Windows               2 Hrs 22 Mins     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   100.00 %
 ```
 
 **We Mostly Code In Python** 
@@ -121,7 +121,7 @@ Python                2 Repos           ▰▰▰▰▰▰▰▰▰▰▰▰▰�
 ![Lines of Code chart](https://raw.githubusercontent.com/DurgaaiSolutions/DurgaaiSolutions/main/./assets/bar_graph.png)
 
 
- Last Updated On 15/08/2025 18:36:23 UTC
+ Last Updated On 15/08/2025 19:19:10 UTC
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials :
